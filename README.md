@@ -15,3 +15,7 @@ As stated above, sample website with plenty of files for demos
 This is a simple web project. 
 
 ## How To Contribute
+
+### Copyright
+
+2022 Git.Training
