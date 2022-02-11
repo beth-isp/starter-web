@@ -8,8 +8,10 @@ This is example blah blah.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, sample website with plenty of files for demos
 
 ## Deployment
+
+This is a simple web project. 
 
 ## How To Contribute
